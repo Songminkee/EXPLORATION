@@ -3,3 +3,4 @@ news_crawler/
 models/
 images/
 __pycache__
+data/
