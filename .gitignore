@@ -4,3 +4,6 @@ models/
 images/
 __pycache__
 data/
+mpii_human_pose_v1_u12_2/
+logs/
+tfrecords_mpii/
