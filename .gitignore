@@ -7,3 +7,5 @@ data/
 mpii_human_pose_v1_u12_2/
 logs/
 tfrecords_mpii/
+widerface/
+dataset/
